@@ -1,0 +1,27 @@
+[
+    {"name": "Flame-Grilled Ribeye Steak",
+     "description": "A thick-cut ribeye, seasoned simply with sea salt and cracked pepper, then grilled over open flame for a perfect char. Finished with garlic butter and fresh herbs.",
+     "side": "Served with roasted potatoes and grilled vegetables",
+     "picture": "https://images.pexels.com/photos/36593597/pexels-photo-36593597.jpeg"
+    },
+    {"name": "Smoky BBQ Chicken",
+     "description": "Juicy chicken marinated in a house-made smoky barbecue sauce, slow-grilled to lock in flavor and finished with a caramelized glaze.",
+     "side": "Served with coleslaw and corn on the cob",
+     "picture": "https://images.pexels.com/photos/30271609/pexels-photo-30271609.jpeg"
+    },
+    {"name": "Lemon Herb Grilled Salmon",
+     "description": "Fresh salmon fillet marinated in lemon, olive oil, and herbs, grilled until tender and slightly crisp on the outside.",
+     "side": "Served with rice and seasonal greens",
+     "picture": "https://images.pexels.com/photos/15382828/pexels-photo-15382828.jpeg"
+    },
+    {"name": "Grilled Beef Skewers", 
+     "description": "Tender chunks of marinated beef skewered with peppers and onions, flame-grilled for a smoky, juicy bite.",
+     "side": "Served with flatbread and garlic sauce",
+     "picture": "https://images.pexels.com/photos/36912020/pexels-photo-36912020.jpeg"
+    },
+    {"name": "Signature Flame Burger",
+     "description": "A juicy grilled beef patty topped with melted cheese, caramelized onions, lettuce, and house sauce, served in a toasted brioche bun.",
+     "side": "Served with crispy fries",
+     "picture": "https://images.pexels.com/photos/33253820/pexels-photo-33253820.jpeg"
+    }
+]
