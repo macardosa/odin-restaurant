@@ -1,3 +1,2 @@
 import "./styles.css";
-
-console.log("YAY!");
+import "./home.js";
