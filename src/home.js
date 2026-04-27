@@ -1,4 +1,4 @@
-import beefDishImage from "./assets/images/beef-dish.png";
+import beefDishImage from "./assets/images/beef-dish.jpg";
 
 export function renderHomePage() {
     const content = document.querySelector("#content");
